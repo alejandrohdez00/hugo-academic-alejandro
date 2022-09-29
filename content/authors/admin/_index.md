@@ -1,12 +1,13 @@
 ---
 title: Alejandro Hernández Artiles
 role: MSc Computer Science and Engineering Student
+avatar_filename: 1652345218448.jfif
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial Neural Networks
+  - Computational Theory
 social:
   - icon: envelope
     icon_pack: fas
