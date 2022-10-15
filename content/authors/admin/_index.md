@@ -11,7 +11,9 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: alejandrohdezles@gmail.com
+    link: hh
+    display:
+      header: false
   - icon: github
     icon_pack: fab
     link: https://github.com/alejandrohdez00
@@ -41,4 +43,4 @@ Really interested in all branches of AI, especially Machine Learning. Currently 
 
 <!--EndFragment-->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
