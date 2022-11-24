@@ -1,7 +1,7 @@
 ---
 title: Alejandro Hernández Artiles
 role: MSc Computer Science and Engineering Student
-avatar_filename: 1652345218448.jfif
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -23,12 +23,14 @@ social:
 organizations: []
 education:
   courses:
-    - course: BSc in Computer Science
-      institution: Universidad Carlos III de Madrid
-      year: 2022
     - course: MSc in Computer Science and Engineering
       institution: Universidad Carlos III de Madrid
       year: 2023
+    
+    - course: BSc in Computer Science
+      institution: Universidad Carlos III de Madrid
+      year: 2022
+      
 email: ""
 superuser: true
 highlight_name: true
