@@ -45,4 +45,4 @@ Really interested in all branches of AI, especially Machine Learning. Currently 
 
 <!--EndFragment-->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Alejandro_Hernandez_Artiles_CV_English.pdf" "newtab" >}}CV{{< /staticref >}}.
