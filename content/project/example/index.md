@@ -15,7 +15,7 @@ image:
 
 links:
 url_code: 'https://github.com/alejandrohdez00/Neuroevolution---Pacman'
-url_pdf: '20220908_TFG_ALEJANDRO_HERNANDEZ_ARTILES.pdf'
+url_pdf: 'https://github.com/alejandrohdez00/Neuroevolution---Pacman/blob/master/20220908_TFG_ALEJANDRO_HERNANDEZ_ARTILES.pdf'
 url_slides: ''
 url_video: 'https://www.linkedin.com/posts/alejandro-hernandez-artiles_algorithms-neuralnetworks-research-activity-6997651318991400960-9Lfd?utm_source=share&utm_medium=member_desktop'
 
