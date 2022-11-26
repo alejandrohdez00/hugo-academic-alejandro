@@ -39,10 +39,7 @@ highlight_name: true
 
 I am a student in Master's degree of Computer Science and Engineering in Universidad Carlos III de Madrid. I would define myself as creative, multifaceted and curious.\
 \
-I enjoy programming and solving logical and mathematical problems, but at the same time I love to dabble in more abstract and artistic fields through writing and creating stories. Passionate about literature, cinema and videogames.\
-\
-Really interested in all branches of AI, especially Machine Learning. Currently working on my thesis about Neuroevolution, using evolutionary algorithms to generate optimal artificial neural networks.
-
+Currently working in the design and implementation of the Central Bank of Spain’s Digital Transformation Strategy. I have proven experience and deep knowledge in the main fields of Computer Science, but my real love is Artificial Intelligence and Computational Theory, that allow me to dabble into more abstract concepts, where I am able to bring out my full potential. My current objective is to continue learning and researching about these fields before pursuing a Ph.D.
 <!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Alejandro_Hernandez_Artiles_CV_English.pdf" "newtab" >}}CV{{< /staticref >}}.

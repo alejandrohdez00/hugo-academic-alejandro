@@ -1,9 +1,10 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Study and development of the algorithm Neuroevolution of Augmented Topologies in the Pac-man environment
+summary: Thesis about the use of evolutionary algorithms to generate artificial neural networks with optimal parameters and topology for solving the game of Pac-man in deterministic and stochastic environments.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Neural Networks
+  - Evolutionary Algorithms
+date: '2022-10-09'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -13,11 +14,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
+url_code: 'https://github.com/alejandrohdez00/Neuroevolution---Pacman'
 url_pdf: ''
 url_slides: ''
 url_video: ''
@@ -27,7 +24,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 Hello there, em ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
