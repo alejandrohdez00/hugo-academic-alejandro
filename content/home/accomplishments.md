@@ -40,7 +40,7 @@ item:
     organization: Spanish Ministry of Education
     organization_url: https://www.educacionyfp.gob.es/portada.html
     title: Tuition-fee Scholarships
-    url: 
+    image:  assets/media/icons/brands/uc3m.png
   
 
 design:
