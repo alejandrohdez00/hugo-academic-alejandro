@@ -25,14 +25,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: """"
+  - certificate_url: 
     date_end: ''
     date_start: '2022-10-07'
     description: ''
     organization: Universidad Carlos III de Madrid
     #organization_url: https://www.uc3m.es/inicio
     title: "Honorable mention in Bachelor's Thesis: Study and development of the algorithm Neuroevolution of Augmenting Topologies in Pac-man environment"
-    url: ''
+    url: 
   - certificate_url: 
     date_end: '2023-09-01'
     date_start: '2018-09-01'
@@ -40,7 +40,7 @@ item:
     organization: Spanish Ministry of Education
     #organization_url: https://www.educacionyfp.gob.es/portada.html
     title: Tuition-fee Scholarships
-    url: ""
+    url: 
   
 
 design:
