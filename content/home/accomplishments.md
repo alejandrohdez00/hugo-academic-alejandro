@@ -34,11 +34,11 @@ item:
     title: "Honorable mention in Bachelor's Thesis: Study and development of the algorithm Neuroevolution of Augmenting Topologies in Pac-man environment"
     url: ''
   - certificate_url: 
-    date_end: '2023-10-01'
-    date_start: '2018-10-01'
+    date_end: '2023-09-01'
+    date_start: '2018-09-01'
     description: ""
     organization: Spanish Ministry of Education
-    organization_url: https://www.educacionyfp.gob.es/portada.html
+    #organization_url: https://www.educacionyfp.gob.es/portada.html
     title: Tuition-fee Scholarships
     url: ""
   
