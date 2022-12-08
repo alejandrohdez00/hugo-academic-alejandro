@@ -39,7 +39,7 @@ experience:
   - title: Software Engineer (Dept. of Innovation)
     company: Avanade
     company_url: 'https://www.avanade.com/es-es'
-    company_logo: 
+    company_logo: avanade.svg
     location: Madrid, Spain
     date_start: '2021-10-18'
     date_end: '2022-04-17'
