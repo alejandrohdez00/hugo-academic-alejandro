@@ -4,6 +4,7 @@ summary: Thesis about the use of evolutionary algorithms to generate artificial 
 tags:
   - Neuroevolution
   - Evolutionary Algorithms
+  - Artificial Neural Networks
 date: '2022-10-09'
 
 # Optional external URL for project (replaces project detail page).

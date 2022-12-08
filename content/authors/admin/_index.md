@@ -2,8 +2,7 @@
 title: Alejandro Hernández Artiles
 role: MSc Computer Science and Engineering Student
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Master's degree student in Computer Science and Engineering with the aim of pursuing a Ph.D.
 interests:
   - Artificial Intelligence
   - Artificial Neural Networks
