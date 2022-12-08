@@ -33,4 +33,4 @@ In addition, different models using Machine Learning were implemented to predict
 \
 The study required to make important decisions about the data to treat, the features to include in the models, such as simplification on the exact locations of the restaurants using the zip codes.\
 \
-For the prediction many different algorithms were proved in order to compare and contrast their performance on the given problem.\
+For the prediction many different algorithms were proved in order to compare and contrast their performance on the given problem.
