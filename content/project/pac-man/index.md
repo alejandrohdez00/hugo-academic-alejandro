@@ -2,7 +2,7 @@
 title: Study and development of the algorithm Neuroevolution of Augmented Topologies in the Pac-man environment
 summary: Thesis about the use of evolutionary algorithms to generate artificial neural networks with optimal parameters and topology for solving the game of Pac-man in deterministic and stochastic environments.
 tags:
-  - Neural Networks
+  - Neuroevolution
   - Evolutionary Algorithms
 date: '2022-10-09'
 
