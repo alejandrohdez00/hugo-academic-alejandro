@@ -32,7 +32,7 @@ item:
     organization: Universidad Carlos III de Madrid
     organization_url: https://www.uc3m.es/inicio
     title: "Honorable mention in Bachelor's Thesis: Study and development of the algorithm Neuroevolution of Augmenting Topologies in Pac-man environment"
-    image: uc3m.png
+    image: 
     url: 
 
   - certificate_url: 
@@ -42,7 +42,7 @@ item:
     organization: CSIC
     organization_url: https://jaeintro.csic.es/
     title: Research Fellowship CSIC JAE
-    image: uc3m.png
+    image: 
     url: 
 
   - certificate_url: 
