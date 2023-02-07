@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-- title: Research Fellowship CSIC (Computational neural networks based on engrams)
+  - title: Research Fellowship CSIC (Computational neural networks based on engrams)
     company: CSIC, Spanish National Research Council
     company_url: 'https://www.csic.es/es'
     company_logo: 
