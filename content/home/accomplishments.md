@@ -34,6 +34,17 @@ item:
     title: "Honorable mention in Bachelor's Thesis: Study and development of the algorithm Neuroevolution of Augmenting Topologies in Pac-man environment"
     image: uc3m.png
     url: 
+
+  - certificate_url: 
+    date_end: ''
+    date_start: '2022-02-18'
+    description: ''
+    organization: CSIC
+    organization_url: https://jaeintro.csic.es/
+    title: Research Fellowship CSIC JAE
+    image: uc3m.png
+    url: 
+
   - certificate_url: 
     date_end: '2023-09-01'
     date_start: '2018-09-01'

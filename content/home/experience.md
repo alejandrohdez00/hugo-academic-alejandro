@@ -22,6 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+- title: Research Fellowship CSIC (Computational neural networks based on engrams)
+    company: CSIC, Spanish National Research Council
+    company_url: 'https://www.csic.es/es'
+    company_logo: 
+    location: Madrid, Spain
+    date_start: '2022-02-18'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Study of the human memory and its relation to engrams
+        * Design of novel artificial neural networks architectures based on engrams
+
   - title: Software Engineer (Dept. of Digitalization and Innovation)
     company: Central Bank of Spain
     company_url: 'https://www.bde.es/bde/en/'
@@ -32,9 +46,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Helping to design and implement the Central Bank of Spain's Digital Transformation Strategy
+        * Automation of tasks in the bank
+        
 
   - title: Software Engineer (Dept. of Innovation)
     company: Avanade
